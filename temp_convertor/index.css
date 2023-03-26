@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    background-color: lightgreen;
+     justify-content: center;
+     min-height: 100vh;
+     text-align: center;
+     display: flex;
+     align-items: center;
+     
+
+}
+.temp-container{
+    padding: 15px;
+    font-weight: bold;
+    font-style:inherit
+    
+}
+.input{
+    padding: 5px;
+    float: right;
+    outline: none;
+    background-color: white
+}
